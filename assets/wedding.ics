@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wedding-website//EN
+BEGIN:VEVENT
+UID:wedding-2027-08-28@wedding-website
+DTSTAMP:20261125T205454Z
+DTSTART:20270828T210000Z
+DTEND:20270829T020000Z
+SUMMARY:Victoria & Chris wedding
+DESCRIPTION:Arrive by 5:00 PM. The ceremony begins at 5:15 PM. Times are Eastern Time.
+LOCATION:Hammond Castle Museum\, 80 Hesperus Avenue\, Gloucester\, MA 01930
+END:VEVENT
+END:VCALENDAR

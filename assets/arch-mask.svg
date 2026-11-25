@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 140" preserveAspectRatio="none">
+  <!-- The pointed arch that clips arch-shaped photo frames. Same curve as photoArchOutline(). -->
+  <path d="M0 140 V62 A63.44 63.44 0 0 1 50 0 A63.44 63.44 0 0 1 100 62 V140 Z"/>
+</svg>
